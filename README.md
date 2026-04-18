@@ -1,7 +1,7 @@
 ## 📂 Repository Structure
 
 * `/implementation/` - Core FunSearch engine, Sandbox environment, and LLM API configurations.
-* `/dataset/` (or `/data/`) - Standard benchmark datasets (e.g., `a280.tsp`).
+* `/data/`  - Standard benchmark datasets (e.g., `a280.tsp`).
 * `FunSearch_TSP_main.ipynb` - The main execution notebook, containing environment setup, baseline evaluation, the FunSearch specification prompt, and post-run analysis tools.
 
 ## 📝 Usage Notes
