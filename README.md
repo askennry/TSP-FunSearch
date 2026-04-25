@@ -1,4 +1,4 @@
-# TSP-FunSearch: Automated Heuristic Discovery for the Traveling Salesman Problem
+# TSP-FunSearch: Automated Heuristic Discovery for the Traveling Salesman Problem (CS5491 Project)
 
 ## 🌟 Key Features
 
